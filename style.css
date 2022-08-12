@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#topBar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: navy;
+    border-bottom: 4px white solid;
+    text-align: center;
+}
+
+#buffer{
+    margin: 40px;
+}
